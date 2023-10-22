@@ -62,7 +62,7 @@ if ($result_sql == 0) {
                     </div>
                     <div class="form-group">
                         <label for="usuario">Usuario</label>
-                        <input type="text" placeholder="Ingrese usuario" class="form-control" name="usuario" id="usuario" value="<?php echo $usuario; ?>">
+                        <input type="text" placeholder="Ingrese usuario" class="form-control" name="usuario" id="usuario" value="<?php echo $usuario; ?>">   
 
                     </div>
                     <button type="submit" class="btn btn-primary"><i class="fas fa-user-edit"></i></button>
